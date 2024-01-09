@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/meisteraxel/3-column-preview-card-component)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://meisteraxel.github.io/3-column-preview-card-component/)
 
 ## My process
 
